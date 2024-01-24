@@ -1,0 +1,5 @@
+package com.in.limit_service.bean;
+
+public class Limit {
+
+}

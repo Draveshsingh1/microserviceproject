@@ -1,0 +1,4 @@
+server.port=8888
+spring.application.name=spring_cloud_config_server
+
+spring.cloud.config.server.git.uri=file:///E:/Microservices/spring_cloud_config_server_file/spring_config.properties
